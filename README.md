@@ -57,4 +57,4 @@ Project stack: Java · Android · Flask · PyTorch
 
 ## Contact
 
-For internship or research conversations, connect with me on [LinkedIn](https://www.linkedin.com/in/dung-le-data304/).
+For internship or research conversations, connect with me on [LinkedIn](https://www.linkedin.com/in/dung-le430/).
