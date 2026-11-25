@@ -1,60 +1,69 @@
-<div align="center">
-  <h1>Dung C. Le</h1>
-  <p><strong>Data Science · Statistical Modeling · Machine Learning Evaluation</strong></p>
-  <p>Data Science undergraduate at Truman State University</p>
-</div>
+## 👋 Hi I'm Tony (Dung Le):
+
+• Data Science major (Math minor) at Truman State University, interested in data analytics, data engineering, and ML/statistical modeling\
+• Other hobbies: basketball, soccer, table tennis,...\
+• Currently looking for Data Analyst / Data Engineer / Data Scientist internships
 
 ---
 
-## Professional experience
+## 🚀 Projects:
 
-**Data Analyst Intern — VinSmart Future / Vingroup**
+📊 [Walmart Sales Analytics Dashboard](https://github.com/DungLe-304/walmart-sales-analytics) : MySQL pipeline + interactive Chart.js dashboard on 1,000 transactions, deployed on [GitHub Pages](https://dungle-304.github.io/walmart-sales-analytics/walmart_dashboard.html)\
+🎓 [SAT & Graduation Rate Analysis](https://github.com/DungLe-304/graduation-rates-sat-analysis) : OLS regression and ANCOVA with interaction terms on 47 universities, Python\
+🏆 [SyncShift](https://github.com/DungLe-304/TruHacks2026-Business) : AI shift scheduling for campus workers, 3rd place (Business Category) at TruHacks x Boeing 2026, built in 48 hours\
+🌐 [Personal Portfolio](https://github.com/DungLe-304/Portfolio) : [dungleportfolio.vercel.app](https://dungleportfolio.vercel.app/) built with Claude Code, deployed on Vercel
 
-- Worked with the AI / Callbot team on ASR model comparison and evaluation and speech-data analysis.
-- Contributed to machine-learning data preparation and classification; worked with Azure-based data workflows and gained exposure to speaker diarization workflows.
+Other projects: ☀️ [RoofWatt](https://github.com/DungLe-304/roofwatt) - 🌱 [GreenPulse](https://github.com/DungLe-304/TruHacks2025) - 🧹 [Sustainability Survey Cleaning](https://github.com/DungLe-304/sustainability-survey-data-cleaning) - 🛍️ [HypeCheck](https://github.com/DungLe-304/hypecheck)
 
-**Truman State University** — mathematics tutor and Java/CS grader.
+🎯 Currently learning LLM agents with LangChain and Streamlit
 
-## Public projects
+---
 
-The repositories below contain academic or personal work.
+## 🤝 Leadership & Experience:
 
-### [Graduation Rates vs. SAT Scores](https://github.com/DungLe-304/graduation-rates-sat-analysis)
+📈 Vice President, American Statistical Association @ Truman State : run hands-on workshops on data cleaning (R tidyverse, Python pandas) and statistical modeling\
+🧮 Mathematics Tutor, Truman State : Precalculus through Calculus II\
+☕ CS 180 (Java I) Grader / TA, Truman State\
+💼 Chair of Finance, Community of College Entrepreneurs (CCE)
 
-Analyzed 47 colleges with sector-specific regression and an interaction test. The difference in slopes was not statistically significant (*p* = 0.175); a sensitivity analysis excluded five records with ACT-to-SAT conversions.
+---
 
-Python · SciPy · statsmodels · SQL · [Analysis notebook](https://github.com/DungLe-304/graduation-rates-sat-analysis/blob/main/notebooks/analysis.ipynb)
+## 💻 Tech & tools:
 
-### [Retail Sales Analytics](https://github.com/DungLe-304/walmart-sales-analytics)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 
-Analyzed 1,000 transactions across three branches and built a filterable dashboard. SQL queries derive time-of-day, day, and month fields for sales exploration.
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![tidyverse](https://img.shields.io/badge/tidyverse-1A162D?style=flat&logo=tidyverse&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
-MySQL · SQL · JavaScript · Chart.js
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
 
-### [Sustainability Survey: Cleaning & Analysis](https://github.com/DungLe-304/sustainability-survey-data-cleaning)
+---
 
-Cleaned 182 campus survey responses, including category recoding and fields containing multiple selections, and documented the analysis in a Quarto report.
+## 🌐 Contact:
 
-R · tidyverse · ggplot2 · plotly · Quarto · [Report (PDF)](https://github.com/DungLe-304/sustainability-survey-data-cleaning/blob/main/src/Data%20Cleaning%2C%20Tidying%20and%20Visualization.pdf)
+You can reach me at: [lechidung204@gmail.com](mailto:lechidung204@gmail.com)\
+💼 LinkedIn: [linkedin.com/in/dung-le430](https://www.linkedin.com/in/dung-le430/)\
+🌐 Portfolio: [dungleportfolio.vercel.app](https://dungleportfolio.vercel.app/)
 
-### [GreenPulse](https://github.com/DungLe-304/TruHacks2025)
+---
 
-Team prototype combining an Android app with crop-disease analysis and weather information. The public repository includes the mobile client and a Flask inference service.
+## 📊 GitHub Stats:
 
-Project stack: Java · Android · Flask · PyTorch
-
-## Technical skills
-
-- **Languages:** Python, SQL, R, Java
-- **Analysis and ML:** pandas, NumPy, SciPy, statsmodels, scikit-learn, PyTorch
-- **Data and visualization:** MySQL, PostgreSQL, SQLite, matplotlib, ggplot2, Tableau, Quarto
-- **Workflow:** Git, Jupyter
-
-## Recognition
-
-- President's List, Truman State University
-- [TruHacks 2026 Business Pitch Category](https://github.com/DungLe-304/TruHacks2026-Business) — 3rd place
-
-## Contact
-
-For internship or research conversations, connect with me on [LinkedIn](https://www.linkedin.com/in/dung-le430/).
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DungLe-304&show_icons=true&theme=github_dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DungLe-304&layout=compact&hide=html&theme=github_dark&hide_border=true)
