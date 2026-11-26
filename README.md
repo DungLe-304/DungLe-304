@@ -17,7 +17,7 @@ I'm a Data Science sophomore with a Math minor at Truman State University, GPA *
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| [RoofWatt](https://github.com/DungLe-304/roofwatt) | AI agent that ranks 171 Houston office rooftops by solar payback and drafts a pitch to the top owner. Built in 36 hours with Khoa Nguyen at HackPrinceton Fall 2026. | Python, LangChain deepagents, Gemini/Ollama, Streamlit, pydeck, NREL PVWatts |
+| [RoofWatt](https://github.com/DungLe-304/roofwatt) | AI agent that ranks 171 Houston office rooftops by solar payback and drafts a pitch to the top owner. Built in 36 hours with Khoa Nguyen at HackPrinceton Fall 2026. [Live demo](https://roofwatt.streamlit.app) | Python, LangChain deepagents, Gemini/Ollama, Streamlit, pydeck, NREL PVWatts |
 | [Walmart Sales Analytics Dashboard](https://github.com/DungLe-304/walmart-sales-analytics) | MySQL pipeline and interactive Chart.js dashboard on 1,000 transactions, live on [GitHub Pages](https://dungle-304.github.io/walmart-sales-analytics/walmart_dashboard.html). | MySQL, JavaScript, Chart.js |
 | [SAT & Graduation Rate Analysis](https://github.com/DungLe-304/graduation-rates-sat-analysis) | OLS regression and ANCOVA with interaction terms on 47 universities. | Python, pandas, statsmodels, SQL |
 | [SyncShift](https://github.com/DungLe-304/TruHacks2026-Business) | AI shift scheduling for campus workers. 3rd place, Business Category, TruHacks x Boeing 2026. | Product pitch, HTML prototype |
